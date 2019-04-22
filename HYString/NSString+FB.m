@@ -20,5 +20,9 @@
     return result;
 }
 
++ (void)hy_text{
+    NSLog(@"hy测试");
+}
+
 
 @end

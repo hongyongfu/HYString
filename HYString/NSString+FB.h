@@ -13,5 +13,6 @@
 
 
 - (NSString *)bandCardSafetyNumber;
++ (void)hy_text;
 
 @end
